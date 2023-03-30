@@ -1,3 +1,5 @@
+vim.cmd([[colorscheme slate]])
+
 local opt = vim.opt
 
 -- set the mapleader
