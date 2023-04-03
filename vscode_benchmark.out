@@ -1,0 +1,4 @@
+Benchmark 1: code .
+  Time (mean ± σ):      1.142 s ±  0.034 s    [User: 0.095 s, System: 0.037 s]
+  Range (min … max):    1.103 s …  1.208 s    50 runs
+ 
